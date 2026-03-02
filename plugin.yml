@@ -1,0 +1,5 @@
+# Plugin Configuration
+
+name: Domain Weapons
+main: com.weapontrims.Main
+version: 1.0.0
